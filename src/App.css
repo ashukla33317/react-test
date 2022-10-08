@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.p{
+  font-size: 0.7rem;
+  color:gray;
+}
+
+span{
+  font-size:10px;
+}
+
+.btns{
+  border: 2px solid black;
+}
+
+
+.btsk{
+  box-shadow: 5px 5px 10px rgb(238, 231, 231);
+}
+
+.usd{
+  color: gray;
+  font-size: 0.8rem;
+  text-decoration: line-through;
+}
+
+.rsd{
+  padding: 2px;
+}
+
+.bgsg{
+ background-color: rgb(245, 237, 245);
+}
